@@ -1,0 +1,1 @@
+# maismaniac.github.io
