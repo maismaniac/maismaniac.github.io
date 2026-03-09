@@ -1,0 +1,72 @@
+[33mcommit 296b207faf9273a21e0ebd47e82eb790ca08e5e5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: maismaniac <mkr.bruno00@gmail.com>
+Date:   Mon Mar 9 15:51:38 2026 -0300
+
+    create banner component
+
+[33mcommit 113d8fe18a8873e64a562e44643b2d2204e9a586[m
+Author: maismaniac <mkr.bruno00@gmail.com>
+Date:   Mon Mar 9 14:05:35 2026 -0300
+
+    test commit
+
+[33mcommit 5e81308deb9be9635da7d6061ea270fa1bc48a7e[m
+Author: maismaniac <mkr.bruno00@gmail.com>
+Date:   Mon Mar 9 13:59:28 2026 -0300
+
+    add title and subtitle component
+
+[33mcommit eb328f5d439cd0647d6c1326279736cee3e1723a[m
+Author: maismaniac <mkr.bruno00@gmail.com>
+Date:   Mon Mar 9 13:53:52 2026 -0300
+
+    create components
+
+[33mcommit 9abc858a48745785bd8cbc252d5e4a4b85af1333[m
+Author: maismaniac <mkr.bruno00@gmail.com>
+Date:   Mon Mar 9 13:46:51 2026 -0300
+
+    Create button component
+
+[33mcommit 6bb98082704aef277909e3806672e8386816abc9[m
+Merge: 411df77 8650d1c
+Author: maismaniac <mkr.bruno00@gmail.com>
+Date:   Wed Mar 4 15:17:50 2026 -0300
+
+    Create the Box component
+
+[33mcommit 411df77cb193edb76fdb1de9ad562391ec20b20b[m
+Author: maismaniac <mkr.bruno00@gmail.com>
+Date:   Wed Mar 4 15:12:40 2026 -0300
+
+    Create the Box component
+
+[33mcommit 1b58ea7b38998efae85b8552ae4f5299c3310857[m
+Author: maismaniac <mkr.bruno00@gmail.com>
+Date:   Mon Mar 2 13:35:41 2026 -0300
+
+    Create the subtitle coponent
+
+[33mcommit 8650d1c217611b5fd3534a313f59a9a5c007bd93[m
+Author: maismaniac <mkr.bruno00@gmail.com>
+Date:   Tue Feb 24 09:51:44 2026 -0300
+
+    Create subtitle component
+
+[33mcommit 0a804cfcd32bd67c38a084b92c6750dce342e865[m
+Author: maismaniac <mkr.bruno00@gmail.com>
+Date:   Tue Feb 24 09:34:39 2026 -0300
+
+    Create the title component
+
+[33mcommit 5ecb2fc42c4cde3f00eb77633b83d7949aad29bc[m
+Author: Bruno <mkr.bruno00@gmail.com>
+Date:   Tue Dec 9 14:34:05 2025 -0300
+
+    Cria o header
+
+[33mcommit b1c01e2d2b0aae61b8c3e06d8740004887ceeba0[m
+Author: Bruno <mkr.bruno00@gmail.com>
+Date:   Tue Dec 9 14:28:45 2025 -0300
+
+    Cria a index.html
