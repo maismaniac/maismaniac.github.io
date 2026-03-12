@@ -1,12 +1,12 @@
 .banner {
     box-sizing: border-box;
-    background-image: url(../../assets/img/banner.jpg);
+    background-image: url(../../assets/img/banner.png);
     background-repeat: no-repeat;
     background-size: 100%;
     height: 800px;
     border-bottom: 10px solid #000;
+    padding-top: 115px;
     padding-left: 90px;
-    padding-bottom: 40px;
 }
 
 .banner .wrapper {
@@ -16,7 +16,7 @@
 }
 
 .banner .box {
-    margin-top: 115px;
+    margin-bottom: 40px;
 }
 
 .banner .navigation {
